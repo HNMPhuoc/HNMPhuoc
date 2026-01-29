@@ -23,6 +23,6 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/minh-ph%C6%B0%E1%BB%9Bc-ho%C3%A0ng-nguy%E1%BB%85n-657bb5356/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/minhphuoc.hoangnguyen.5/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HNMPhuoc&show_icons=true&locale=en" alt="HNMPhuoc" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HNMPhuoc&" alt="HNMPhuoc" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HNMPhuoc&" alt="HNMPhuoc" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HNMPhuoc&show_icons=true&locale=en&layout=compact" alt="HNMPhuoc" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HNMPhuoc" alt="HNMPhuoc" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HNMPhuoc" alt="HNMPhuoc" /></a></p> -->
